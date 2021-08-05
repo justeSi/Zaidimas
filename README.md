@@ -1,0 +1,2 @@
+# Zaidimas
+ JFrame atspek skaiciu
